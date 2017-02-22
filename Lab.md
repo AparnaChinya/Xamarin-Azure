@@ -190,7 +190,7 @@ Eg:
                 var sl2 = new StackLayout
  
                 {
- 
+
                     Orientation = StackOrientation.Horizontal,
  
                     Children = { mul, div }
@@ -218,9 +218,8 @@ Eg:
 ##OBSERVABLE COLLECTION
  
 1.	Open PageOne.xaml and Insert the below Code.
- 
- ```chsarp
 
+```XML
 <AbsoluteLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
  
       <StackLayout
@@ -260,13 +259,13 @@ Eg:
  
 </ContentPage>
 
-````
+```
      
  
  
 2.	PageOne.xaml.cs and insert the below code.
  
-````chsarp
+```chsarp
 public class Session
  
     {
