@@ -107,6 +107,36 @@ public ICommand GetSessionsCommand { get; set; }
 Sessions = new ObservableCollection<Session>();
 ```
 
+####GetSessions Task : Add the below snippet to call the REST service.
+
+````csharp
+    async Task GetSessions()
+
+        {
+
+            
+                using (var client = new System.Net.Http.HttpClient())
+
+                {
+
+                    var json = await client.GetStringAsync("https://apchin-mobileapp.azurewebsites.net/api/Poki");
+                    
+                    //Deserialize json
+
+                    var items = JsonConvert.DeserializeObject<List<Session>>(json);
+
+                    myList.ItemsSource = items;
+
+                    //Load sessions into list
+
+
+                }
+
+                             
+
+        }
+```
+
 ###Set the title of the page as “Sessions”
 ```csharp
 Title = "Sessions";
