@@ -1,0 +1,2 @@
+C:\Users\apchin\Documents\Xamarin-Azure\Demo\Demo\Demo.UWP\Demo.UWP.csproj;x64
+C:\Users\apchin\Documents\Xamarin-Azure\Demo\Demo\Demo\Demo.csproj;neutral

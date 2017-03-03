@@ -156,6 +156,7 @@
 
                 this.Content = new StackLayout
                 {
+                    
                     Children =
                     {
                         num1, num2, sl1, sl2, result

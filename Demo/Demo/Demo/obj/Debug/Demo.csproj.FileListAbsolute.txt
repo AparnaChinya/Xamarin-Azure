@@ -1,0 +1,14 @@
+C:\Users\apchin\Documents\Xamarin-Azure\Demo\Demo\Demo\bin\Debug\Demo.dll
+C:\Users\apchin\Documents\Xamarin-Azure\Demo\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\apchin\Documents\Xamarin-Azure\Demo\Demo\Demo\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\apchin\Documents\Xamarin-Azure\Demo\Demo\Demo\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\apchin\Documents\Xamarin-Azure\Demo\Demo\Demo\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\apchin\Documents\Xamarin-Azure\Demo\Demo\Demo\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\apchin\Documents\Xamarin-Azure\Demo\Demo\Demo\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\apchin\Documents\Xamarin-Azure\Demo\Demo\Demo\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\apchin\Documents\Xamarin-Azure\Demo\Demo\Demo\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\apchin\Documents\Xamarin-Azure\Demo\Demo\Demo\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\apchin\Documents\Xamarin-Azure\Demo\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\apchin\Documents\Xamarin-Azure\Demo\Demo\Demo\obj\Debug\Demo.PageOne.xaml.g.cs
+C:\Users\apchin\Documents\Xamarin-Azure\Demo\Demo\Demo\obj\Debug\Demo.dll
+C:\Users\apchin\Documents\Xamarin-Azure\Demo\Demo\Demo\obj\Debug\Demo.pdb
